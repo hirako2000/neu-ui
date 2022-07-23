@@ -1,7 +1,7 @@
 {
     "name": "neu-hirako",
     "version": "1.0.0",
-    "description": "Neu Hirako is an open source heavily inspired UI Kit featuring dozens of components and 5 example pages.",
+    "description": "Neu UI is an open source heavily inspired UI Kit featuring dozens of components and 5 example pages.",
     "main": "gulpfile.js",
     "author": "Hirako",
     "keywords": [

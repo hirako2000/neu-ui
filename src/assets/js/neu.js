@@ -414,7 +414,7 @@ $(function () {
     };
   
     app = function() {
-      var Particle, nCanvasRender, ctxRender, fAngle, fCosAngle, fMaxAX, fMaxAY, fMaxAZ, fPI, fSinAngle, fStartVX, fStartVY, fStartVZ, fVX, fnACos, fnCos, fnMax, fnMin, fnNextFrame, fnRender, fnRnd, fnRnd2, fnSetSize, fnSin, fnSwapList, gui, h, iProjSphereX, iProjSphereY, iRadiusSphere, nBody, oBuffer, oDoc, oRadGrad, oRender, w;
+      var Particle, ctxRender, fAngle, fCosAngle, fMaxAX, fMaxAY, fMaxAZ, fPI, fSinAngle, fStartVX, fStartVY, fStartVZ, fVX, fnACos, fnCos, fnMax, fnMin, fnNextFrame, fnRender, fnRnd, fnRnd2, fnSetSize, fnSin, fnSwapList, gui, h, iProjSphereX, iProjSphereY, iRadiusSphere, nBody, oBuffer, oDoc, oRadGrad, oRender, w;
       // General Elements
       oDoc = document;
       nBody = oDoc.body;
@@ -452,9 +452,6 @@ $(function () {
       window.aColor = [255, 128, 128];
       fVX = (2.0 * fPI) / window.iFramesToRotate;
       oRadGrad = null;
-      if(!nCanvasRender) {
-        return;
-      }
       ctxRender = nCanvasRender.getContext('2d');
 
       oRender = {
