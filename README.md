@@ -3,7 +3,7 @@
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
-neu-hirako follows the neumorphic design trend. It features over common components and example pages.
+Neu UI follows the neumorphic design trend. It features over common components and example pages.
 
 ## Neu components
 
@@ -14,21 +14,16 @@ neu-hirako follows the neumorphic design trend. It features over common componen
 - navbar
 - modal
 - form and validation
-- More coming
-
-## Example pages
-
-TODO Link to example of pages or in the wild
+- More...
 
 ## Full documentation
 
-Each component, plugin and the general workflow is well documented. Check out the [online documentation for Neu UI](/docs/introduction.html).
+Each component, plugin and the general workflow is well documented. Check out the [online documentation for Neu UI](https://neu-ui.surge.sh/docs/introduction.html).
 
 ## Workflow
 
-
-- Bootstrap layout system
-- Builds with Gulp
+- Layout system
+- Build for dev/prod
 - Preprocessor Sass
 
 ## Table of Contents
@@ -69,7 +64,7 @@ While the gulp command is running, files in the `assets/scss/`, `assets/js/` and
 
 Hit `CTRL+C` to terminate the script command. This will stop the local server from running.
 
-## Theme without Sass, Gulp or Npm
+## without Sass, Gulp or Npm
 
 If you'd like to get a version of our theme without Sass, Gulp or Npm, we've got you covered. Run the following command:
 
@@ -81,7 +76,7 @@ This will generate a folder `html&css` which will have unminified CSS, Html and 
 
 ## Minified version
 
-If you'd like to compile the code and get a minified version of the HTML and CSS just run the following Gulp command:
+If you'd like to compile the code and get a minified version of the HTML and CSS just run the following command:
 
 ```
 npm run build:prod
@@ -91,7 +86,7 @@ This will generate a folder `dist` which will have minified CSS, Html and Javasc
 
 ## Documentation
 
-The documentation is in the works
+The documentation is in the works still, but head over to the demo to acces it.
 
 ## File Structure
 
@@ -249,21 +244,21 @@ neu kit
 
 ## Browser Support
 
-At present, we officially aim to support the last two versions of the major (Chrome, Safari, Firefox) browsers. Sorry IE/Edge isn't a browser.
+At present, only aiming to support the last two versions of the major (Chrome, Safari, Firefox) browsers. Sorry IE/Edge isn't a browser.
 
 
 ## Resources
-- Demo: <https://surge.sh>
-- Download Page: <https://github.com/hirako2000/neu-hirako.git>
-- Documentation: <https://github.com/hirako2000/wiki>
-- Issues: [Github Issues Page](https://github.com/hirako2000/neu-hirako/issues)
+- Demo: <https://hirako-ui.surge.sh>
+- Download Page: <https://github.com/hirako2000/neu-ui.git>
+- Documentation: <https://hirako-ui.surge.sh/docs/>
+- Issues: [Github Issues Page](https://github.com/hirako2000/neu-ui/issues)
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker. Here are some advices for our users that want to report an issue:
+GitHub Issues as the bug tracker.
 
 1. Make sure that you are using the latest version of the lib.
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
+2. Providing us reproducible steps for the issue will shorten the time it takes if it ever gets fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Licensing
@@ -271,7 +266,9 @@ We use GitHub Issues as the official bug tracker. Here are some advices for our 
 - MIT License
 
 ## Useful Links
-
+- none yet
 
 ##### Social Media
+
+- haha...
 
