@@ -1,5 +1,5 @@
 {
-    "name": "neu-hirako",
+    "name": "neu-ui",
     "version": "1.0.0",
     "description": "Neu UI is an open source heavily inspired UI Kit featuring dozens of components and 5 example pages.",
     "main": "gulpfile.js",
@@ -16,15 +16,16 @@
         "html",
         "js"
     ],
-    "homepage": "https://github.com/hirako2000/neu-hirako/",
+    "homepage": "https://github.com/hirako2000/neu-ui/",
     "bugs": {
-        "url": "https://github.com/hirako2000/neu-hirako/issues"
+        "url": "https://github.com/hirako2000/neu-ui/issues"
     },
     "scripts": {
         "dev": "gulp",
         "build:dev": "gulp build:dev",
         "build:prod": "gulp build:dist",
-        "starter": "gulp starter"
+        "starter": "gulp starter",
+        "deploy": "dist neu-ui.surge.sh"
     },
     "license": "MIT",
     "devDependencies": {

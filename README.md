@@ -97,7 +97,7 @@ neu kit
 .
 ├── README.md
 ├── gulpfile.js
-├── neu-hirako.zip
+├── neu-ui.zip
 ├── package-lock.json
 ├── package.json
 └── src
@@ -239,7 +239,7 @@ neu kit
         │   ├── mixins
         │   ├── utilities
         │   └── vendor
-        └── neu-hirako.scss
+        └── neu.scss
 ```
 
 ## Browser Support
