@@ -41,7 +41,7 @@ Each component, plugin and the general workflow is well documented. Check out th
 
 ## Demo
 
--   [Live Preview](https://surge.sh/)
+-   [Live Preview](https://neu-ui.surge.sh/)
 
 ## Quick start
 
