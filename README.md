@@ -54,13 +54,13 @@ Each component, plugin and the general workflow is well documented. Check out th
 npm install
 ```
 
-6. Run gulp script from root folder to serve the project files using BrowserSync. Running gulp will compile the theme and open `/index.html` in your main browser.
+6. Run the npm script from root folder to serve the project files using BrowserSync. Gulp will compile the theme and open `/index.html` in your main browser.
 
 ```
 npm run dev
 ```
 
-While the gulp command is running, files in the `assets/scss/`, `assets/js/` and `components/` folders will be sync'ed for changes with the browser. Files from the `assets/scss/` folder will generate injected CSS.
+While the command is running, files in the `assets/scss/`, `assets/js/` and `components/` folders will be sync'ed for changes with the browser. Files from the `assets/scss/` folder will generate injected CSS.
 
 Hit `CTRL+C` to terminate the script command. This will stop the local server from running.
 
