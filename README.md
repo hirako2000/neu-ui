@@ -65,6 +65,7 @@ Each component, plugin and the general workflow is well documented. Check out th
   - [Minified version](#minified-version)
   - [Documentation](#documentation)
   - [File Structure](#file-structure)
+    - [Codebase](#codebase)
   - [Browser Support](#browser-support)
   - [Resources](#resources)
   - [Reporting Issues](#reporting-issues)
@@ -274,6 +275,10 @@ neu kit
         │   └── vendor
         └── neu.scss
 ```
+
+### Codebase
+
+![Visualization of the codebase](./diagram.svg)
 
 ## Browser Support
 
