@@ -1,6 +1,32 @@
 # [Neu UI - DEMO](https://neu-ui.surge.sh)
 
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
+[![Uptime][uptime-shield]][uptime-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![repo-size][repo-size-shield]][repo-size-url]
+[![license][license-shield]][license-url]
+
+[observatory-shield]: https://img.shields.io/mozilla-observatory/grade-score/neu-ui.surge.sh?publish&style=for-the-badge
+[uptime-shield]: https://img.shields.io/uptimerobot/ratio/m792462927-d88b9d2ebd47a1c7ccdf9763?style=for-the-badge
+[uptime-url]: https://neu-ui.surge.sh
+[contributors-shield]: https://img.shields.io/github/contributors/hirako2000/neu-ui.svg?style=for-the-badge
+[contributors-url]: https://github.com/hirako2000/neu-ui/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hirako2000/neu-ui.svg?style=for-the-badge
+[forks-url]: https://github.com/hirako2000/neu-ui/network/members
+[stars-shield]: https://img.shields.io/github/stars/hirako2000/neu-ui.svg?style=for-the-badge
+[stars-url]: https://github.com/hirako2000/neu-ui/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hirako2000/neu-ui.svg?style=for-the-badge
+[issues-url]: https://github.com/hirako2000/neu-ui/issues
+[license-shield]: https://img.shields.io/github/license/hirako2000/neu-ui.svg?style=for-the-badge
+[license-url]: https://github.com/hirako2000/neu-ui/blob/main/LICENSE
+[w3c-validation-shield]: https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fneu-ui.surge.sh
+[w3c-validation-url]: https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fneu-ui.surge.sh&profile=css3svg&usermedium=all
+[score-shield]: https://img.shields.io/ossf-scorecard/github.com/hirako2000/neu-ui?style=for-the-badge
+[score-url]: https://github.com/hirako2000/neu-ui.surge.sh
+[repo-size-shield]: https://img.shields.io/github/repo-size/hirako2000/neu-ui?style=for-the-badge
+[repo-size-url]: https://github.com/hirako2000/neu-ui/archive/refs/heads/main.zip
 
 
 Neu UI follows the neumorphic design trend. It features over common components and example pages.
@@ -28,16 +54,23 @@ Each component, plugin and the general workflow is well documented. Check out th
 
 ## Table of Contents
 
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
+- [Neu UI - DEMO](#neu-ui---demo)
+  - [Neu components](#neu-components)
+  - [Full documentation](#full-documentation)
+  - [Workflow](#workflow)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Quick start](#quick-start)
+  - [without Sass, Gulp or Npm](#without-sass-gulp-or-npm)
+  - [Minified version](#minified-version)
+  - [Documentation](#documentation)
+  - [File Structure](#file-structure)
+  - [Browser Support](#browser-support)
+  - [Resources](#resources)
+  - [Reporting Issues](#reporting-issues)
+  - [Licensing](#licensing)
+  - [Useful Links](#useful-links)
+        - [Social Media](#social-media)
 
 ## Demo
 
@@ -45,7 +78,7 @@ Each component, plugin and the general workflow is well documented. Check out th
 
 ## Quick start
 
-1. Download/Clone from [github](https://github.com/hirako2000/neu-hirako.git)
+1. Download/Clone from [github](https://github.com/hirako2000/neu-ui.git)
 2. Download the project's zip
 3. Make sure you have Node locally installed.
 
@@ -121,7 +154,7 @@ neu kit
     │   │   ├── team
     │   │   ├── logo.svg
     │   └── js
-    │       └── neu-hirako.js
+    │       └── neu.js
     ├── html
     │   ├── components
     │   │   ├── accordions.html
@@ -248,9 +281,9 @@ At present, only aiming to support the last two versions of the major (Chrome, S
 
 
 ## Resources
-- Demo: <https://hirako-ui.surge.sh>
+- Demo: <https://neu-ui.surge.sh>
 - Download Page: <https://github.com/hirako2000/neu-ui.git>
-- Documentation: <https://hirako-ui.surge.sh/docs/>
+- Documentation: <https://neu-ui.surge.sh/docs/>
 - Issues: [Github Issues Page](https://github.com/hirako2000/neu-ui/issues)
 
 ## Reporting Issues
