@@ -9,7 +9,7 @@
 [![license][license-shield]][license-url]
 
 [observatory-shield]: https://img.shields.io/mozilla-observatory/grade-score/neu-ui.surge.sh?publish&style=for-the-badge
-[uptime-shield]: https://img.shields.io/uptimerobot/ratio/m792462927-d88b9d2ebd47a1c7ccdf9763?style=for-the-badge
+[uptime-shield]: https://img.shields.io/uptimerobot/ratio/m792598928-d0239381be648275cbe18311?style=for-the-badge
 [uptime-url]: https://neu-ui.surge.sh
 [contributors-shield]: https://img.shields.io/github/contributors/hirako2000/neu-ui.svg?style=for-the-badge
 [contributors-url]: https://github.com/hirako2000/neu-ui/graphs/contributors
